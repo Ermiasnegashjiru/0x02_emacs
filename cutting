@@ -1,0 +1,1 @@
+C-S-backspace ( kill-whole-line ) kills a whole line including its newline, regardless of the position of point within the line.
